@@ -1,4 +1,4 @@
-# Explainer for the TODO API
+ # Explainer for the TODO API
 
 **Instructions for the explainer author: Search for "todo" in this repository and update all the
 instances as appropriate. For the instances in `index.bs`, update the repository name, but you can
